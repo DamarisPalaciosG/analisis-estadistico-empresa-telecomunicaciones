@@ -1,1 +1,1 @@
-# analisis-estadistico-empresa-telecomunicaciones
+El objetivo de este proyecto es realizar un análisis detallado del comportamiento de estos 500 usuarios mediante métodos de análisis estadístico y visualización de datos, para comparar el desempeño de ambos planes de prepago para evaluar patrones de consumo y niveles de ingreso asociados a cada uno. Para proponer estrategias más efectivas para optimizar promociones, planes tarifarios y la asignación del presupuesto publicitario.
