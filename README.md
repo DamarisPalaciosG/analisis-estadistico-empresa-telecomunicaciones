@@ -1,30 +1,30 @@
-## 📊 Análisis Estadístico de Planes de Telecomunicaciones: Rentabilidad y Comportamiento de los Usuarios
+## Análisis Estadístico de Planes de Telecomunicaciones: Rentabilidad y Comportamiento de los Usuarios
 
-### 📌 Descripción del Proyecto
+### Descripción del Proyecto
 
 Análisis de datos enfocado en evaluar la rentabilidad de los planes de telecomunicaciones de **Megaline (Surf y Ultimate)**, identificando patrones de consumo, diferencias de comportamiento entre usuarios y oportunidades para mejorar la estrategia comercial mediante decisiones basadas en datos.
 
 ---
 
-## 🎯 Problema de Negocio
+## Problema de Negocio
 
 Determinar cuál de los planes de Megaline genera mayores ingresos y comprender las diferencias en el comportamiento de consumo de los usuarios para apoyar la toma de decisiones comerciales, optimizar campañas de marketing y mejorar la asignación del presupuesto publicitario.
 
 ---
 
-## 🔎 Proceso de Análisis
+## Proceso de Análisis
 
 Se desarrolló un análisis completo del ciclo de vida de los datos:
 
-- 🧹 **Limpieza y preparación de datos** para garantizar calidad y consistencia de la información.
-- 🔍 **Análisis exploratorio de datos (EDA)** para identificar patrones de consumo y comportamiento de usuarios.
-- 📊 **Estadística descriptiva** para analizar tendencias, variabilidad y distribución de los datos.
-- 📈 **Visualización de datos** mediante gráficos para facilitar la interpretación de resultados.
-- 🧪 **Pruebas de hipótesis estadísticas** para validar diferencias entre planes y respaldar conclusiones con evidencia cuantitativa.
+-  **Limpieza y preparación de datos** para garantizar calidad y consistencia de la información.
+-  **Análisis exploratorio de datos (EDA)** para identificar patrones de consumo y comportamiento de usuarios.
+-  **Estadística descriptiva** para analizar tendencias, variabilidad y distribución de los datos.
+-  **Visualización de datos** mediante gráficos para facilitar la interpretación de resultados.
+-  **Pruebas de hipótesis estadísticas** para validar diferencias entre planes y respaldar conclusiones con evidencia cuantitativa.
 
 ---
 
-## 💡 Resultados y Hallazgos
+##  Resultados y Hallazgos
 
 - El plan **Surf genera mayores ingresos totales** debido principalmente a su mayor cantidad de usuarios.
 - El plan **Ultimate presenta un comportamiento de consumo más estable** y predecible.
@@ -35,7 +35,7 @@ Se desarrolló un análisis completo del ciclo de vida de los datos:
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+##  Herramientas y Tecnologías
 
 <p>
 <img src="https://img.shields.io/badge/Python-Intermedio-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -48,7 +48,7 @@ Se desarrolló un análisis completo del ciclo de vida de los datos:
 
 ---
 
-## 📂 Metodologías Aplicadas
+##  Metodologías Aplicadas
 
 - Análisis Exploratorio de Datos (EDA)
 - Estadística Descriptiva
@@ -60,6 +60,6 @@ Se desarrolló un análisis completo del ciclo de vida de los datos:
 
 ---
 
-## 📈 Impacto del Proyecto
+##  Impacto del Proyecto
 
 Este proyecto demuestra la capacidad para transformar datos de clientes en **insights accionables**, apoyando la toma de decisiones comerciales mediante análisis estadístico, visualización y comunicación efectiva de resultados.
