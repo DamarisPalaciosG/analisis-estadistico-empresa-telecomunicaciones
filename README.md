@@ -2,7 +2,7 @@
 
 ### Descripción del Proyecto
 
-Análisis de datos enfocado en evaluar la rentabilidad de los planes de telecomunicaciones de **Megaline (Surf y Ultimate)**, identificando patrones de consumo, diferencias de comportamiento entre usuarios y oportunidades para mejorar la estrategia comercial mediante decisiones basadas en datos.
+Análisis de datos enfocado en evaluar la rentabilidad de los planes de telecomunicaciones de Megaline (Surf y Ultimate), identificando patrones de consumo, diferencias de comportamiento entre usuarios y oportunidades para mejorar la estrategia comercial mediante decisiones basadas en datos.
 
 ---
 
@@ -26,8 +26,8 @@ Se desarrolló un análisis completo del ciclo de vida de los datos:
 
 ##  Resultados y Hallazgos
 
-- El plan **Surf genera mayores ingresos totales** debido principalmente a su mayor cantidad de usuarios.
-- El plan **Ultimate presenta un comportamiento de consumo más estable** y predecible.
+- El plan Surf genera mayores ingresos totales debido principalmente a su mayor cantidad de usuarios.
+- El plan Ultimate presenta un comportamiento de consumo más estable y predecible.
 - Los análisis permitieron identificar diferencias relevantes en patrones de uso, proporcionando información para:
   - Optimizar estrategias de marketing.
   - Mejorar la segmentación de clientes.
@@ -62,4 +62,4 @@ Se desarrolló un análisis completo del ciclo de vida de los datos:
 
 ##  Impacto del Proyecto
 
-Este proyecto demuestra la capacidad para transformar datos de clientes en **insights accionables**, apoyando la toma de decisiones comerciales mediante análisis estadístico, visualización y comunicación efectiva de resultados.
+Este proyecto demuestra la capacidad para transformar datos de clientes en insights accionables, apoyando la toma de decisiones comerciales mediante análisis estadístico, visualización y comunicación efectiva de resultados.
